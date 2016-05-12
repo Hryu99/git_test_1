@@ -12,6 +12,7 @@ namespace DungeonsBot
         {
             Console.WriteLine("dshjkf");
             Console.WriteLine("dshjkf");
+            Console.WriteLine("dshjkf");
         }
     }
 }
