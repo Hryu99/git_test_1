@@ -10,6 +10,7 @@ namespace DungeonsBot
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("dsf");
         }
     }
 }
