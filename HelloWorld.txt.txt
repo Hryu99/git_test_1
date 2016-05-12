@@ -1,4 +1,6 @@
-print("Hello World!");
+print("Hello World!;");
 print("Óðà!");
-print("Hello my dear friend!");
-print(Rfrfz nj [sgdfg);
+print("Hello my dear friend!;");
+print(Rfrfz nj [sgdfg;);
+print("Hello World!;");
+print("Óðà!;");
